@@ -1,0 +1,132 @@
+.aboutus{
+  text-align: center;
+  color:teal;
+}
+.font_size{
+  font-size: 14px;
+}
+.font1{
+  font-family: 'PT Sans',sans-serif;
+}
+.font2{
+  font-family: 'Oswald',sans-serif;
+}
+h3{
+  font-family: 'PT Sans',sans-serif;
+  font-size: 18px!important;
+}
+.menu a{
+  text-decoration: none; 
+  color: black;
+}
+.main-color{
+  color: #008080;
+}
+.border_1{
+  background-color: rgb(233, 228, 222);
+  border-radius: 0%;
+}
+.card-title{
+  color: teal;
+}
+.img1 {
+  margin-left: 15px;
+  width: 200px;
+  height: 133px;
+    float: right;     
+    }
+.align1 {
+  width: 10%;
+  color: teal;
+}
+ul {
+  list-style-type: none;
+}
+
+.nav1{
+text-align: left;
+border: 1px solid #BFBFBF;
+}
+h3{
+  font-size: medium;
+  color: #008080;
+}
+.c{
+  font-size: 50px;
+}
+.h1{
+  color: teal;
+}
+.card-title{
+  padding-top: 10px;
+}
+hr{
+  background-color: teal;
+}
+.hr1{
+  height: 4px;
+}
+#navbar a{
+  border-radius: 0%;
+  font-family: 'Oswald',sans-serif;
+  color: #008080!important;
+}
+#name{
+  padding-bottom: 0px;
+  margin-left: 10px;
+  font-size: 40px;
+  font-family: 'Oswald',sans-serif;
+  color: #008080!important;
+}
+#tag{
+  font: size 11px!important ;
+  font-family: 'Oswald',sans-serif;
+  color: #666666!important;
+}
+.img{
+  height: 17px;
+  padding: 1px 8px;
+}
+.check{
+  text-decoration: none;
+  font-family: 'Oswald',sans-serif;
+  color: #008080!important;
+  font-size: 14px;
+  height: 20px;
+  padding: 0x;
+  margin-right: 10px;
+}
+.footer-icon{
+  background: url(assets/images/footer_icon.png) no-repeat 0 0 transparent; 
+  margin-top: 30px; 
+  padding-left: 35px;
+  margin-bottom: 10px;
+}
+.footer-img{
+  margin-top: 10px; 
+  width: 60px; 
+  height: 57px;
+  padding-right: 15px;
+}
+.footer-li{
+  border-top: 1px dashed #E9E9E9; 
+  padding-bottom: 15px;
+}
+#product{
+  padding-top: 0%;
+  font-size: 16px;
+  font-family: 'PT Sans',sans-serif;
+  color: white;
+}
+#product-tag{
+  font: size 16px!important ;
+  font-family: 'PT Sans',sans-serif;
+  color: white!important;
+}
+h4{
+  font-family: 'Oswald',sans-serif!important;
+}
+#forimg img{
+  width: 48px;
+  height: 48px;
+}
